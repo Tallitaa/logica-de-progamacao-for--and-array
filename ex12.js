@@ -14,5 +14,4 @@ var result = ''
 for (index = bin.length - 1; index >= 0; index--) {
     result += bin[index]
 }
-
 console.log(1 + result)
